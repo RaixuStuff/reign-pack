@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+        "id": "25.10.18",
+        "releasedAt": 1760785866058,
+        "updateType": "major"
+    }
+  ]
+}
